@@ -1,0 +1,61 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fields{
+  display: flex;
+  flex-direction: row;
+}
+
+fieldset{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fileInputSet{
+  margin-left: 50px;
+}
+
+table{
+  margin-top: 90px;
+}
+
+td{
+  padding: 20px;
+}
+
+tr th{
+  text-align: center;
+  background-color: #46ada8;
+}
+
+tr:nth-child(odd){
+  background-color: #abfffc;
+}
+
+input[type="file"]{
+  width: 60%;
+}
+
+input[type="text"]{
+
+  margin-bottom: 10px;
+}
+
+
+fieldset button{
+  margin-top: 20px;
+}

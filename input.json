@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "nome": "Augusto Sigolo",
+      "peso": 90,
+      "altura": 1.8
+    },
+    {
+      "nome": "João da Silva",
+      "peso": 80,
+      "altura": 1.7
+    },
+    {
+      "nome": "Maria da Silva",
+      "peso": 60,
+      "altura": 1.6
+    },
+    {
+      "nome": "José da Silva",
+      "peso": 70,
+      "altura": 1.7
+    },
+    {
+      "nome": "Joana da Silva",
+      "peso": 65,
+      "altura": 1.6
+    }
+  ]
+}
